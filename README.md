@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install armadillo_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+ArmadilloViewTool::Renderer.copyright 'Rachel Parker', 'All rights reserved'
+```
 
 ## Development
 
